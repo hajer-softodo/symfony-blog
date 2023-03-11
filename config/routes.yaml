@@ -1,0 +1,8 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+# config/routes.yaml
+send_email:
+  path: /envoyer-email
+  controller: App\Controller\MyEmailController::sendEmail
+  methods: [GET]

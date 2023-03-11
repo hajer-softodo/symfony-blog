@@ -1,0 +1,13 @@
+sensio_framework_extra:
+    router:
+        annotations: false
+
+# Swiftmailer Configuration
+swiftmailer:
+    transport: smtp
+    host: smtp.gmail.com
+    username: hajer.benlassoued@gmail.com
+    password: 54464248Hajer
+    port: 587
+    encryption: tls
+    auth_mode: login

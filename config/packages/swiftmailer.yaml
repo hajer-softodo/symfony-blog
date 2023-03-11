@@ -1,0 +1,5 @@
+swiftmailer:
+    transport: smtp
+    host:      hajer.benlassoued@gmail.com
+    username:  hajer.benlassoued
+    password:  54464248Hajer
